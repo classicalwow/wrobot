@@ -1,0 +1,11 @@
+node_modules
+*.lock
+.idea
+.DS_Store
+*.js.map
+src/**/*.js
+package-lock.json
+/dist
+*.xls
+*.xlsx
+*.tif

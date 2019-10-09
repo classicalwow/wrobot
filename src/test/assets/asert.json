@@ -1,0 +1,2603 @@
+{
+    "type": "Chunk",
+    "body": [
+        {
+            "type": "AssignmentStatement",
+            "variables": [
+                {
+                    "type": "Identifier",
+                    "name": "ItemRackUser"
+                }
+            ],
+            "init": [
+                {
+                    "type": "TableConstructorExpression",
+                    "fields": [
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "ButtonSpacing",
+                                "raw": "\"ButtonSpacing\""
+                            },
+                            "value": {
+                                "type": "NumericLiteral",
+                                "value": 4,
+                                "raw": "4"
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "QueuesEnabled",
+                                "raw": "\"QueuesEnabled\""
+                            },
+                            "value": {
+                                "type": "TableConstructorExpression",
+                                "fields": []
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "Locked",
+                                "raw": "\"Locked\""
+                            },
+                            "value": {
+                                "type": "StringLiteral",
+                                "value": "OFF",
+                                "raw": "\"OFF\""
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "MainScale",
+                                "raw": "\"MainScale\""
+                            },
+                            "value": {
+                                "type": "NumericLiteral",
+                                "value": 1,
+                                "raw": "1"
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "SetMenuWrapValue",
+                                "raw": "\"SetMenuWrapValue\""
+                            },
+                            "value": {
+                                "type": "NumericLiteral",
+                                "value": 3,
+                                "raw": "3"
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "Buttons",
+                                "raw": "\"Buttons\""
+                            },
+                            "value": {
+                                "type": "TableConstructorExpression",
+                                "fields": []
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "Sets",
+                                "raw": "\"Sets\""
+                            },
+                            "value": {
+                                "type": "TableConstructorExpression",
+                                "fields": [
+                                    {
+                                        "type": "TableKey",
+                                        "key": {
+                                            "type": "StringLiteral",
+                                            "value": "裸替",
+                                            "raw": "\"裸替\""
+                                        },
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": [
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "equip",
+                                                        "raw": "\"equip\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "6125::::::::33:::::::",
+                                                                    "raw": "\"6125::::::::33:::::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "5351::::::::33:::11::::",
+                                                                    "raw": "\"5351::::::::33:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "11995::::::1187:988721024:33:::::::",
+                                                                    "raw": "\"11995::::::1187:988721024:33:::::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "16990::::::::33:::11::::",
+                                                                    "raw": "\"16990::::::::33:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 19,
+                                                                    "raw": "19"
+                                                                },
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "oldset",
+                                                        "raw": "\"oldset\""
+                                                    },
+                                                    "value": {
+                                                        "type": "StringLiteral",
+                                                        "value": "防战",
+                                                        "raw": "\"防战\""
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "icon",
+                                                        "raw": "\"icon\""
+                                                    },
+                                                    "value": {
+                                                        "type": "NumericLiteral",
+                                                        "value": 136519,
+                                                        "raw": "136519"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "old",
+                                                        "raw": "\"old\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "11746::::::::60:::1::::",
+                                                                    "raw": "\"11746::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "15411::::::::60:::11::::",
+                                                                    "raw": "\"15411::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "13166::::::::60:::1::::",
+                                                                    "raw": "\"13166::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NilLiteral",
+                                                                    "value": null,
+                                                                    "raw": "nil"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "10845::::::::60:::1::::",
+                                                                    "raw": "\"10845::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "13959::::::::60:::11::::",
+                                                                    "raw": "\"13959::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "21316::::::::60:::11::::",
+                                                                    "raw": "\"21316::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "16734::::::::60:::1::::",
+                                                                    "raw": "\"16734::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "13400::::::::60:::1::::",
+                                                                    "raw": "\"13400::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "10369::::::::60:::1::::",
+                                                                    "raw": "\"10369::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 13,
+                                                                    "raw": "13"
+                                                                },
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "13965::::::::60:::11::::",
+                                                                    "raw": "\"13965::::::::60:::11::::\""
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "TableKey",
+                                        "key": {
+                                            "type": "StringLiteral",
+                                            "value": "练级2",
+                                            "raw": "\"练级2\""
+                                        },
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": [
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "equip",
+                                                        "raw": "\"equip\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "7719::::::::58:::1::::",
+                                                                    "raw": "\"7719::::::::58:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19159::::::::58:::11::::",
+                                                                    "raw": "\"19159::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "9476::::::::58:::1::::",
+                                                                    "raw": "\"9476::::::::58:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "6125::::::::58:::::::",
+                                                                    "raw": "\"6125::::::::58:::::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "21322::::::::58:::11::::",
+                                                                    "raw": "\"21322::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "15709::::::::58:::11::::",
+                                                                    "raw": "\"15709::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "21316::::::::58:::11::::",
+                                                                    "raw": "\"21316::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "9637::::::::58:::11::::",
+                                                                    "raw": "\"9637::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "16794::::::::58:::11::::",
+                                                                    "raw": "\"16794::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19126::::::::58:::11::::",
+                                                                    "raw": "\"19126::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "9533::::::::58:::11::::",
+                                                                    "raw": "\"9533::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "10795::::::1204:1596421632:58:::1::::",
+                                                                    "raw": "\"10795::::::1204:1596421632:58:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "11122::::::::58:::11::::",
+                                                                    "raw": "\"11122::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "17774::::::::58:::11::::",
+                                                                    "raw": "\"17774::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "15789::::::::58:::11::::",
+                                                                    "raw": "\"15789::::::::58:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "17730::::::::58:::1::::",
+                                                                    "raw": "\"17730::::::::58:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NilLiteral",
+                                                                    "value": null,
+                                                                    "raw": "nil"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19114::::::::58:::11::::",
+                                                                    "raw": "\"19114::::::::58:::11::::\""
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "oldset",
+                                                        "raw": "\"oldset\""
+                                                    },
+                                                    "value": {
+                                                        "type": "StringLiteral",
+                                                        "value": "裸替",
+                                                        "raw": "\"裸替\""
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "icon",
+                                                        "raw": "\"icon\""
+                                                    },
+                                                    "value": {
+                                                        "type": "NumericLiteral",
+                                                        "value": 132107,
+                                                        "raw": "132107"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "old",
+                                                        "raw": "\"old\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NilLiteral",
+                                                                    "value": null,
+                                                                    "raw": "nil"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 14,
+                                                                    "raw": "14"
+                                                                },
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 16,
+                                                                    "raw": "16"
+                                                                },
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 17,
+                                                                    "raw": "17"
+                                                                },
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "TableKey",
+                                        "key": {
+                                            "type": "StringLiteral",
+                                            "value": "练级23",
+                                            "raw": "\"练级23\""
+                                        },
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": [
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "equip",
+                                                        "raw": "\"equip\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "18718::::::::59:::1::::",
+                                                                    "raw": "\"18718::::::::59:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "15411::::::::59:::11::::",
+                                                                    "raw": "\"15411::::::::59:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "9476::::::::59:::1::::",
+                                                                    "raw": "\"9476::::::::59:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "6125::::::::59:::::::",
+                                                                    "raw": "\"6125::::::::59:::::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "10240::::::1224:1681983360:59:::1::::",
+                                                                    "raw": "\"10240::::::1224:1681983360:59:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "13384::::::::59:::1::::",
+                                                                    "raw": "\"13384::::::::59:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "21316::::::::59:::11::::",
+                                                                    "raw": "\"21316::::::::59:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "9637::::::::59:::11::::",
+                                                                    "raw": "\"9637::::::::59:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "13400::::::::59:::1::::",
+                                                                    "raw": "\"13400::::::::59:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19126::::::::59:::11::::",
+                                                                    "raw": "\"19126::::::::59:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "9533::::::::59:::11::::",
+                                                                    "raw": "\"9533::::::::59:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "10795::::::1204:1596421632:59:::1::::",
+                                                                    "raw": "\"10795::::::1204:1596421632:59:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "17774::::::::59:::11::::",
+                                                                    "raw": "\"17774::::::::59:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19120::::::::59:::11::::",
+                                                                    "raw": "\"19120::::::::59:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "15789::::::::59:::11::::",
+                                                                    "raw": "\"15789::::::::59:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "17705::::::::59:::11::::",
+                                                                    "raw": "\"17705::::::::59:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NilLiteral",
+                                                                    "value": null,
+                                                                    "raw": "nil"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19114::::::::59:::11::::",
+                                                                    "raw": "\"19114::::::::59:::11::::\""
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "oldset",
+                                                        "raw": "\"oldset\""
+                                                    },
+                                                    "value": {
+                                                        "type": "StringLiteral",
+                                                        "value": "裸替",
+                                                        "raw": "\"裸替\""
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "icon",
+                                                        "raw": "\"icon\""
+                                                    },
+                                                    "value": {
+                                                        "type": "NumericLiteral",
+                                                        "value": 132107,
+                                                        "raw": "132107"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "old",
+                                                        "raw": "\"old\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NilLiteral",
+                                                                    "value": null,
+                                                                    "raw": "nil"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "TableKey",
+                                        "key": {
+                                            "type": "StringLiteral",
+                                            "value": "坐骑",
+                                            "raw": "\"坐骑\""
+                                        },
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": [
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "equip",
+                                                        "raw": "\"equip\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 13,
+                                                                    "raw": "13"
+                                                                },
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "11122::::::::50:::11::::",
+                                                                    "raw": "\"11122::::::::50:::11::::\""
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "oldset",
+                                                        "raw": "\"oldset\""
+                                                    },
+                                                    "value": {
+                                                        "type": "StringLiteral",
+                                                        "value": "坐骑",
+                                                        "raw": "\"坐骑\""
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "icon",
+                                                        "raw": "\"icon\""
+                                                    },
+                                                    "value": {
+                                                        "type": "NumericLiteral",
+                                                        "value": 132107,
+                                                        "raw": "132107"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "old",
+                                                        "raw": "\"old\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 13,
+                                                                    "raw": "13"
+                                                                },
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19120::::::::53:::11::::",
+                                                                    "raw": "\"19120::::::::53:::11::::\""
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "TableKey",
+                                        "key": {
+                                            "type": "StringLiteral",
+                                            "value": "~CombatQueue",
+                                            "raw": "\"~CombatQueue\""
+                                        },
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": [
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "equip",
+                                                        "raw": "\"equip\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": []
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "TableKey",
+                                        "key": {
+                                            "type": "StringLiteral",
+                                            "value": "防战",
+                                            "raw": "\"防战\""
+                                        },
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": [
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "equip",
+                                                        "raw": "\"equip\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "11746::::::::60:::1::::",
+                                                                    "raw": "\"11746::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "15411::::::::60:::11::::",
+                                                                    "raw": "\"15411::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "13166::::::::60:::1::::",
+                                                                    "raw": "\"13166::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "6125::::::::60:::::::",
+                                                                    "raw": "\"6125::::::::60:::::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "10845::::::::60:::1::::",
+                                                                    "raw": "\"10845::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "13959::::::::60:::11::::",
+                                                                    "raw": "\"13959::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "21316::::::::60:::11::::",
+                                                                    "raw": "\"21316::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "16734::::::::60:::1::::",
+                                                                    "raw": "\"16734::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "13400::::::::60:::1::::",
+                                                                    "raw": "\"13400::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "10369::::::::60:::1::::",
+                                                                    "raw": "\"10369::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "9533::::::::60:::11::::",
+                                                                    "raw": "\"9533::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "10795::::::1204:1596421632:60:::1::::",
+                                                                    "raw": "\"10795::::::1204:1596421632:60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "13965::::::::60:::11::::",
+                                                                    "raw": "\"13965::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19120::::::::60:::11::::",
+                                                                    "raw": "\"19120::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "15789::::::::60:::11::::",
+                                                                    "raw": "\"15789::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "17705::::::::60:::11::::",
+                                                                    "raw": "\"17705::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "16998::::::::60:::11::::",
+                                                                    "raw": "\"16998::::::::60:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "12651::::::::60:::1::::",
+                                                                    "raw": "\"12651::::::::60:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                },
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "oldset",
+                                                        "raw": "\"oldset\""
+                                                    },
+                                                    "value": {
+                                                        "type": "StringLiteral",
+                                                        "value": "裸替",
+                                                        "raw": "\"裸替\""
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "icon",
+                                                        "raw": "\"icon\""
+                                                    },
+                                                    "value": {
+                                                        "type": "NumericLiteral",
+                                                        "value": 136519,
+                                                        "raw": "136519"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "old",
+                                                        "raw": "\"old\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NilLiteral",
+                                                                    "value": null,
+                                                                    "raw": "nil"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 13,
+                                                                    "raw": "13"
+                                                                },
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "TableKey",
+                                        "key": {
+                                            "type": "StringLiteral",
+                                            "value": "练级1",
+                                            "raw": "\"练级1\""
+                                        },
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": [
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "equip",
+                                                        "raw": "\"equip\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "7719::::::::50:::1::::",
+                                                                    "raw": "\"7719::::::::50:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19159::::::::50:::11::::",
+                                                                    "raw": "\"19159::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "9476::::::::50:::1::::",
+                                                                    "raw": "\"9476::::::::50:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "6125::::::::50:::::::",
+                                                                    "raw": "\"6125::::::::50:::::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "4074::::::::50:::1::::",
+                                                                    "raw": "\"4074::::::::50:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "6742::::::::50:::11::::",
+                                                                    "raw": "\"6742::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19117::::::::50:::11::::",
+                                                                    "raw": "\"19117::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "9637::::::::50:::11::::",
+                                                                    "raw": "\"9637::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "16794::::::::50:::11::::",
+                                                                    "raw": "\"16794::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "7724::::::::50:::1::::",
+                                                                    "raw": "\"7724::::::::50:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "9533::::::::50:::11::::",
+                                                                    "raw": "\"9533::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "18585::::::::50:::11::::",
+                                                                    "raw": "\"18585::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19120::::::::50:::11::::",
+                                                                    "raw": "\"19120::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "17774::::::::50:::11::::",
+                                                                    "raw": "\"17774::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "4114::::::::50:::11::::",
+                                                                    "raw": "\"4114::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "17730::::::::50:::1::::",
+                                                                    "raw": "\"17730::::::::50:::1::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "19114::::::::50:::11::::",
+                                                                    "raw": "\"19114::::::::50:::11::::\""
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableValue",
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                },
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "11285::::::::50:::::::",
+                                                                    "raw": "\"11285::::::::50:::::::\""
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "oldset",
+                                                        "raw": "\"oldset\""
+                                                    },
+                                                    "value": {
+                                                        "type": "StringLiteral",
+                                                        "value": "练级",
+                                                        "raw": "\"练级\""
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "icon",
+                                                        "raw": "\"icon\""
+                                                    },
+                                                    "value": {
+                                                        "type": "NumericLiteral",
+                                                        "value": 132107,
+                                                        "raw": "132107"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "old",
+                                                        "raw": "\"old\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": [
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                },
+                                                                "value": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 0,
+                                                                    "raw": "0"
+                                                                }
+                                                            },
+                                                            {
+                                                                "type": "TableKey",
+                                                                "key": {
+                                                                    "type": "NumericLiteral",
+                                                                    "value": 14,
+                                                                    "raw": "14"
+                                                                },
+                                                                "value": {
+                                                                    "type": "StringLiteral",
+                                                                    "value": "11122::::::::50:::11::::",
+                                                                    "raw": "\"11122::::::::50:::11::::\""
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "TableKey",
+                                        "key": {
+                                            "type": "StringLiteral",
+                                            "value": "~Unequip",
+                                            "raw": "\"~Unequip\""
+                                        },
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": [
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "equip",
+                                                        "raw": "\"equip\""
+                                                    },
+                                                    "value": {
+                                                        "type": "TableConstructorExpression",
+                                                        "fields": []
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "EnableQueues",
+                                "raw": "\"EnableQueues\""
+                            },
+                            "value": {
+                                "type": "StringLiteral",
+                                "value": "ON",
+                                "raw": "\"ON\""
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "CurrentSet",
+                                "raw": "\"CurrentSet\""
+                            },
+                            "value": {
+                                "type": "StringLiteral",
+                                "value": "防战",
+                                "raw": "\"防战\""
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "Alpha",
+                                "raw": "\"Alpha\""
+                            },
+                            "value": {
+                                "type": "NumericLiteral",
+                                "value": 1,
+                                "raw": "1"
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "ItemsUsed",
+                                "raw": "\"ItemsUsed\""
+                            },
+                            "value": {
+                                "type": "TableConstructorExpression",
+                                "fields": []
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "Events",
+                                "raw": "\"Events\""
+                            },
+                            "value": {
+                                "type": "TableConstructorExpression",
+                                "fields": [
+                                    {
+                                        "type": "TableKey",
+                                        "key": {
+                                            "type": "StringLiteral",
+                                            "value": "Enabled",
+                                            "raw": "\"Enabled\""
+                                        },
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": []
+                                        }
+                                    },
+                                    {
+                                        "type": "TableKey",
+                                        "key": {
+                                            "type": "StringLiteral",
+                                            "value": "Set",
+                                            "raw": "\"Set\""
+                                        },
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": [
+                                                {
+                                                    "type": "TableKey",
+                                                    "key": {
+                                                        "type": "StringLiteral",
+                                                        "value": "骑术装",
+                                                        "raw": "\"骑术装\""
+                                                    },
+                                                    "value": {
+                                                        "type": "StringLiteral",
+                                                        "value": "坐骑",
+                                                        "raw": "\"坐骑\""
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "Queues",
+                                "raw": "\"Queues\""
+                            },
+                            "value": {
+                                "type": "TableConstructorExpression",
+                                "fields": [
+                                    {
+                                        "type": "TableValue",
+                                        "value": {
+                                            "type": "TableConstructorExpression",
+                                            "fields": [
+                                                {
+                                                    "type": "TableValue",
+                                                    "value": {
+                                                        "type": "StringLiteral",
+                                                        "value": "6686::::::::33:::1::::",
+                                                        "raw": "\"6686::::::::33:::1::::\""
+                                                    }
+                                                },
+                                                {
+                                                    "type": "TableValue",
+                                                    "value": {
+                                                        "type": "NumericLiteral",
+                                                        "value": 0,
+                                                        "raw": "0"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "SetMenuWrap",
+                                "raw": "\"SetMenuWrap\""
+                            },
+                            "value": {
+                                "type": "StringLiteral",
+                                "value": "OFF",
+                                "raw": "\"OFF\""
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "Hidden",
+                                "raw": "\"Hidden\""
+                            },
+                            "value": {
+                                "type": "TableConstructorExpression",
+                                "fields": []
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "MenuScale",
+                                "raw": "\"MenuScale\""
+                            },
+                            "value": {
+                                "type": "NumericLiteral",
+                                "value": 0.85,
+                                "raw": "0.85"
+                            }
+                        },
+                        {
+                            "type": "TableKey",
+                            "key": {
+                                "type": "StringLiteral",
+                                "value": "EnableEvents",
+                                "raw": "\"EnableEvents\""
+                            },
+                            "value": {
+                                "type": "StringLiteral",
+                                "value": "ON",
+                                "raw": "\"ON\""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "comments": [
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        },
+        {
+            "type": "Comment",
+            "value": " [2]",
+            "raw": "-- [2]"
+        },
+        {
+            "type": "Comment",
+            "value": " [3]",
+            "raw": "-- [3]"
+        },
+        {
+            "type": "Comment",
+            "value": " [4]",
+            "raw": "-- [4]"
+        },
+        {
+            "type": "Comment",
+            "value": " [5]",
+            "raw": "-- [5]"
+        },
+        {
+            "type": "Comment",
+            "value": " [6]",
+            "raw": "-- [6]"
+        },
+        {
+            "type": "Comment",
+            "value": " [7]",
+            "raw": "-- [7]"
+        },
+        {
+            "type": "Comment",
+            "value": " [8]",
+            "raw": "-- [8]"
+        },
+        {
+            "type": "Comment",
+            "value": " [9]",
+            "raw": "-- [9]"
+        },
+        {
+            "type": "Comment",
+            "value": " [10]",
+            "raw": "-- [10]"
+        },
+        {
+            "type": "Comment",
+            "value": " [11]",
+            "raw": "-- [11]"
+        },
+        {
+            "type": "Comment",
+            "value": " [12]",
+            "raw": "-- [12]"
+        },
+        {
+            "type": "Comment",
+            "value": " [13]",
+            "raw": "-- [13]"
+        },
+        {
+            "type": "Comment",
+            "value": " [14]",
+            "raw": "-- [14]"
+        },
+        {
+            "type": "Comment",
+            "value": " [15]",
+            "raw": "-- [15]"
+        },
+        {
+            "type": "Comment",
+            "value": " [16]",
+            "raw": "-- [16]"
+        },
+        {
+            "type": "Comment",
+            "value": " [17]",
+            "raw": "-- [17]"
+        },
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        },
+        {
+            "type": "Comment",
+            "value": " [2]",
+            "raw": "-- [2]"
+        },
+        {
+            "type": "Comment",
+            "value": " [3]",
+            "raw": "-- [3]"
+        },
+        {
+            "type": "Comment",
+            "value": " [4]",
+            "raw": "-- [4]"
+        },
+        {
+            "type": "Comment",
+            "value": " [5]",
+            "raw": "-- [5]"
+        },
+        {
+            "type": "Comment",
+            "value": " [6]",
+            "raw": "-- [6]"
+        },
+        {
+            "type": "Comment",
+            "value": " [7]",
+            "raw": "-- [7]"
+        },
+        {
+            "type": "Comment",
+            "value": " [8]",
+            "raw": "-- [8]"
+        },
+        {
+            "type": "Comment",
+            "value": " [9]",
+            "raw": "-- [9]"
+        },
+        {
+            "type": "Comment",
+            "value": " [10]",
+            "raw": "-- [10]"
+        },
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        },
+        {
+            "type": "Comment",
+            "value": " [2]",
+            "raw": "-- [2]"
+        },
+        {
+            "type": "Comment",
+            "value": " [3]",
+            "raw": "-- [3]"
+        },
+        {
+            "type": "Comment",
+            "value": " [4]",
+            "raw": "-- [4]"
+        },
+        {
+            "type": "Comment",
+            "value": " [5]",
+            "raw": "-- [5]"
+        },
+        {
+            "type": "Comment",
+            "value": " [6]",
+            "raw": "-- [6]"
+        },
+        {
+            "type": "Comment",
+            "value": " [7]",
+            "raw": "-- [7]"
+        },
+        {
+            "type": "Comment",
+            "value": " [8]",
+            "raw": "-- [8]"
+        },
+        {
+            "type": "Comment",
+            "value": " [9]",
+            "raw": "-- [9]"
+        },
+        {
+            "type": "Comment",
+            "value": " [10]",
+            "raw": "-- [10]"
+        },
+        {
+            "type": "Comment",
+            "value": " [11]",
+            "raw": "-- [11]"
+        },
+        {
+            "type": "Comment",
+            "value": " [12]",
+            "raw": "-- [12]"
+        },
+        {
+            "type": "Comment",
+            "value": " [13]",
+            "raw": "-- [13]"
+        },
+        {
+            "type": "Comment",
+            "value": " [14]",
+            "raw": "-- [14]"
+        },
+        {
+            "type": "Comment",
+            "value": " [15]",
+            "raw": "-- [15]"
+        },
+        {
+            "type": "Comment",
+            "value": " [16]",
+            "raw": "-- [16]"
+        },
+        {
+            "type": "Comment",
+            "value": " [17]",
+            "raw": "-- [17]"
+        },
+        {
+            "type": "Comment",
+            "value": " [18]",
+            "raw": "-- [18]"
+        },
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        },
+        {
+            "type": "Comment",
+            "value": " [2]",
+            "raw": "-- [2]"
+        },
+        {
+            "type": "Comment",
+            "value": " [3]",
+            "raw": "-- [3]"
+        },
+        {
+            "type": "Comment",
+            "value": " [4]",
+            "raw": "-- [4]"
+        },
+        {
+            "type": "Comment",
+            "value": " [5]",
+            "raw": "-- [5]"
+        },
+        {
+            "type": "Comment",
+            "value": " [6]",
+            "raw": "-- [6]"
+        },
+        {
+            "type": "Comment",
+            "value": " [7]",
+            "raw": "-- [7]"
+        },
+        {
+            "type": "Comment",
+            "value": " [8]",
+            "raw": "-- [8]"
+        },
+        {
+            "type": "Comment",
+            "value": " [9]",
+            "raw": "-- [9]"
+        },
+        {
+            "type": "Comment",
+            "value": " [10]",
+            "raw": "-- [10]"
+        },
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        },
+        {
+            "type": "Comment",
+            "value": " [2]",
+            "raw": "-- [2]"
+        },
+        {
+            "type": "Comment",
+            "value": " [3]",
+            "raw": "-- [3]"
+        },
+        {
+            "type": "Comment",
+            "value": " [4]",
+            "raw": "-- [4]"
+        },
+        {
+            "type": "Comment",
+            "value": " [5]",
+            "raw": "-- [5]"
+        },
+        {
+            "type": "Comment",
+            "value": " [6]",
+            "raw": "-- [6]"
+        },
+        {
+            "type": "Comment",
+            "value": " [7]",
+            "raw": "-- [7]"
+        },
+        {
+            "type": "Comment",
+            "value": " [8]",
+            "raw": "-- [8]"
+        },
+        {
+            "type": "Comment",
+            "value": " [9]",
+            "raw": "-- [9]"
+        },
+        {
+            "type": "Comment",
+            "value": " [10]",
+            "raw": "-- [10]"
+        },
+        {
+            "type": "Comment",
+            "value": " [11]",
+            "raw": "-- [11]"
+        },
+        {
+            "type": "Comment",
+            "value": " [12]",
+            "raw": "-- [12]"
+        },
+        {
+            "type": "Comment",
+            "value": " [13]",
+            "raw": "-- [13]"
+        },
+        {
+            "type": "Comment",
+            "value": " [14]",
+            "raw": "-- [14]"
+        },
+        {
+            "type": "Comment",
+            "value": " [15]",
+            "raw": "-- [15]"
+        },
+        {
+            "type": "Comment",
+            "value": " [16]",
+            "raw": "-- [16]"
+        },
+        {
+            "type": "Comment",
+            "value": " [17]",
+            "raw": "-- [17]"
+        },
+        {
+            "type": "Comment",
+            "value": " [18]",
+            "raw": "-- [18]"
+        },
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        },
+        {
+            "type": "Comment",
+            "value": " [2]",
+            "raw": "-- [2]"
+        },
+        {
+            "type": "Comment",
+            "value": " [3]",
+            "raw": "-- [3]"
+        },
+        {
+            "type": "Comment",
+            "value": " [4]",
+            "raw": "-- [4]"
+        },
+        {
+            "type": "Comment",
+            "value": " [5]",
+            "raw": "-- [5]"
+        },
+        {
+            "type": "Comment",
+            "value": " [6]",
+            "raw": "-- [6]"
+        },
+        {
+            "type": "Comment",
+            "value": " [7]",
+            "raw": "-- [7]"
+        },
+        {
+            "type": "Comment",
+            "value": " [8]",
+            "raw": "-- [8]"
+        },
+        {
+            "type": "Comment",
+            "value": " [9]",
+            "raw": "-- [9]"
+        },
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        },
+        {
+            "type": "Comment",
+            "value": " [2]",
+            "raw": "-- [2]"
+        },
+        {
+            "type": "Comment",
+            "value": " [3]",
+            "raw": "-- [3]"
+        },
+        {
+            "type": "Comment",
+            "value": " [4]",
+            "raw": "-- [4]"
+        },
+        {
+            "type": "Comment",
+            "value": " [5]",
+            "raw": "-- [5]"
+        },
+        {
+            "type": "Comment",
+            "value": " [6]",
+            "raw": "-- [6]"
+        },
+        {
+            "type": "Comment",
+            "value": " [7]",
+            "raw": "-- [7]"
+        },
+        {
+            "type": "Comment",
+            "value": " [8]",
+            "raw": "-- [8]"
+        },
+        {
+            "type": "Comment",
+            "value": " [9]",
+            "raw": "-- [9]"
+        },
+        {
+            "type": "Comment",
+            "value": " [10]",
+            "raw": "-- [10]"
+        },
+        {
+            "type": "Comment",
+            "value": " [11]",
+            "raw": "-- [11]"
+        },
+        {
+            "type": "Comment",
+            "value": " [12]",
+            "raw": "-- [12]"
+        },
+        {
+            "type": "Comment",
+            "value": " [13]",
+            "raw": "-- [13]"
+        },
+        {
+            "type": "Comment",
+            "value": " [14]",
+            "raw": "-- [14]"
+        },
+        {
+            "type": "Comment",
+            "value": " [15]",
+            "raw": "-- [15]"
+        },
+        {
+            "type": "Comment",
+            "value": " [16]",
+            "raw": "-- [16]"
+        },
+        {
+            "type": "Comment",
+            "value": " [17]",
+            "raw": "-- [17]"
+        },
+        {
+            "type": "Comment",
+            "value": " [18]",
+            "raw": "-- [18]"
+        },
+        {
+            "type": "Comment",
+            "value": " [19]",
+            "raw": "-- [19]"
+        },
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        },
+        {
+            "type": "Comment",
+            "value": " [2]",
+            "raw": "-- [2]"
+        },
+        {
+            "type": "Comment",
+            "value": " [3]",
+            "raw": "-- [3]"
+        },
+        {
+            "type": "Comment",
+            "value": " [4]",
+            "raw": "-- [4]"
+        },
+        {
+            "type": "Comment",
+            "value": " [5]",
+            "raw": "-- [5]"
+        },
+        {
+            "type": "Comment",
+            "value": " [6]",
+            "raw": "-- [6]"
+        },
+        {
+            "type": "Comment",
+            "value": " [7]",
+            "raw": "-- [7]"
+        },
+        {
+            "type": "Comment",
+            "value": " [8]",
+            "raw": "-- [8]"
+        },
+        {
+            "type": "Comment",
+            "value": " [9]",
+            "raw": "-- [9]"
+        },
+        {
+            "type": "Comment",
+            "value": " [10]",
+            "raw": "-- [10]"
+        },
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        },
+        {
+            "type": "Comment",
+            "value": " [2]",
+            "raw": "-- [2]"
+        },
+        {
+            "type": "Comment",
+            "value": " [3]",
+            "raw": "-- [3]"
+        },
+        {
+            "type": "Comment",
+            "value": " [4]",
+            "raw": "-- [4]"
+        },
+        {
+            "type": "Comment",
+            "value": " [5]",
+            "raw": "-- [5]"
+        },
+        {
+            "type": "Comment",
+            "value": " [6]",
+            "raw": "-- [6]"
+        },
+        {
+            "type": "Comment",
+            "value": " [7]",
+            "raw": "-- [7]"
+        },
+        {
+            "type": "Comment",
+            "value": " [8]",
+            "raw": "-- [8]"
+        },
+        {
+            "type": "Comment",
+            "value": " [9]",
+            "raw": "-- [9]"
+        },
+        {
+            "type": "Comment",
+            "value": " [10]",
+            "raw": "-- [10]"
+        },
+        {
+            "type": "Comment",
+            "value": " [11]",
+            "raw": "-- [11]"
+        },
+        {
+            "type": "Comment",
+            "value": " [12]",
+            "raw": "-- [12]"
+        },
+        {
+            "type": "Comment",
+            "value": " [13]",
+            "raw": "-- [13]"
+        },
+        {
+            "type": "Comment",
+            "value": " [14]",
+            "raw": "-- [14]"
+        },
+        {
+            "type": "Comment",
+            "value": " [15]",
+            "raw": "-- [15]"
+        },
+        {
+            "type": "Comment",
+            "value": " [16]",
+            "raw": "-- [16]"
+        },
+        {
+            "type": "Comment",
+            "value": " [17]",
+            "raw": "-- [17]"
+        },
+        {
+            "type": "Comment",
+            "value": " [18]",
+            "raw": "-- [18]"
+        },
+        {
+            "type": "Comment",
+            "value": " [19]",
+            "raw": "-- [19]"
+        },
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        },
+        {
+            "type": "Comment",
+            "value": " [2]",
+            "raw": "-- [2]"
+        },
+        {
+            "type": "Comment",
+            "value": " [1]",
+            "raw": "-- [1]"
+        }
+    ]
+}
